@@ -47,7 +47,7 @@ Of course, this tool is not completely helpful in some cases, but I just had the
 * [SpringBoot](https://spring.io/)
 
 ## Getting Started
-### Disclaimer: I take no responsibility for any damage caused by this tool. The tool is intended for LAN use only
+#### Disclaimer: I take no responsibility for any damage caused by this tool. The tool is intended for LAN use only
 Before you can use this tool in your browser, you need to set up the backend correctly
 
 ### Prerequisites
