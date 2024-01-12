@@ -4,7 +4,7 @@
     <img src="pictures/logo.png" alt="Logo" width="150">
   </a>
 
-  <h3 align="center">DataOrganizer</h3>
+  <h1 align="center">DataOrganizer</h1>
 
   <p align="center">
     Web-based database tool to organize your belongings, create and manage shopping lists
