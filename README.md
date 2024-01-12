@@ -83,6 +83,10 @@ So under "Fridge", you can add a product like:
 As already mentioned, a stock system is also integrated in this tool. This allows you to set the current amount of butter you have in the fridge to 2. If you have used both, you can set the quantity to 0 and if the setting for automatic replenishment is set for this product, it is automatically placed on the shopping list with the configured quantity
 However, this system is unlikely to be helpful for most use cases
 
+## Roadmap
+* I plan to create a stand-alone version of this tool. So you don't need a separate backend and frontend. However, this will only work for one user.
+* Another planned feature is a client app in Electron. This will allow you to edit your entries and products directly in an app instead of via a browser.
+
 ## Support
 If you like the project, you can support it on <a href="https://github.com/AlphaOverhaul/DataOrganizer/issues">Patreon</a> :)
 
