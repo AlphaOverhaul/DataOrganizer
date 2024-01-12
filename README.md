@@ -85,7 +85,7 @@ However, this system is unlikely to be helpful for most use cases
 
 ## Roadmap
 * I plan to create a stand-alone version of this tool. So you don't need a separate backend and frontend. However, this will only work for one user.
-* Another planned feature is a client app in Electron. This will allow you to edit your entries and products directly in an app instead of via a browser.
+* Another planned feature is a client app with Electron. This will allow you to edit your entries and products directly in an app instead of via a browser.
 
 ## Support
 If you like the project, you can support it on <a href="https://github.com/AlphaOverhaul/DataOrganizer/issues">Patreon</a> :)
