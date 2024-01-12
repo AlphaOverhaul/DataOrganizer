@@ -27,7 +27,7 @@
 
 ![Screen Shot](images/screenshot.png)
 
-My tool, the DataOrganizer, was developed by me to create a uniform overview of our things such as food, technology and other consumables for me and my family.
+My tool, the DataOrganizer, was developed to create a uniform overview of our things such as food, technology and other consumables for me and my family.
 
 > But I thought it might be helpful for others too, so here it is
 
@@ -37,7 +37,7 @@ Here's why you should use this tool:
 * If you have been burgled, you can quickly check what is missing and report it accordingly.
 * You can also create shopping lists and use the built-in stock system to have the program automatically write a part of the shopping list.
 
-Of course, this tool is not completely helpful in most cases, but I just had the idea and implemented it. For example, I really like using the automatic storage system, which my family doesn't do.
+Of course, this tool is not completely helpful in some cases, but I just had the idea and implemented it. For example, I really like using the automatic storage system, which my family doesn't do.
 
 ## Built With
 
@@ -47,12 +47,12 @@ Of course, this tool is not completely helpful in most cases, but I just had the
 * [SpringBoot](https://spring.io/)
 
 ## Getting Started
-
+### Disclaimer: I take no responsibility for any damage caused by this tool. The tool is intended for LAN use only
 Before you can use this tool in your browser, you need to set up the backend correctly
 
 ### Prerequisites
 
-Dafür gehe bitte folgende Schritte durch
+To do this, please go through the following steps
 
 * Make sure that you have Java installed.
 > This is required for SpringBoot to work
@@ -67,7 +67,7 @@ Dafür gehe bitte folgende Schritte durch
 
 4. Place the file **dataorganizer_frontend** on a server device. Preferably the same as before
 
-5. 
+5. further stufffff
 
 ## Usage
 
@@ -82,6 +82,9 @@ So under "Fridge", you can add a product like:
 #
 As already mentioned, a stock system is also integrated in this tool. This allows you to set the current amount of butter you have in the fridge to 2. If you have used both, you can set the quantity to 0 and if the setting for automatic replenishment is set for this product, it is automatically placed on the shopping list with the configured quantity
 However, this system is unlikely to be helpful for most use cases
+
+## Support
+If you like the project, you can support it on <a href="https://github.com/AlphaOverhaul/DataOrganizer/issues">Patreon</a> :)
 
 ## License
 
