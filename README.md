@@ -25,7 +25,7 @@
 
 ## About The Project
 
-![Screen Shot](images/screenshot.png)
+![Screen Shot](pictures/screenshot.png)
 
 My tool, the DataOrganizer, was developed to create a uniform overview of our things such as food, technology and other consumables for me and my family.
 
