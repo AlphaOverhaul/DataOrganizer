@@ -1,7 +1,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/AlphaOverhaul/DataOrganizer">
-    <img src="images/logo.png" alt="Logo" width="80" height="80">
+    <img src="pictures/logo.png" alt="Logo" width="150">
   </a>
 
   <h3 align="center">DataOrganizer</h3>
